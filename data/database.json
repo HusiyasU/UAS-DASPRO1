@@ -1,0 +1,69 @@
+{
+    "accounts": {
+        "user1": {
+            "password": "Iyas",
+            "role": "Biasa",
+            "locked": true,
+            "attempts": 3,
+            "balance": {
+                "Gold": 95
+            }
+        },
+        "iyastama": {
+            "password": "iyaselite",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "balance": {
+                "Gold": 200
+            }
+        },
+        "tes": {
+            "password": "iyas1323",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "balance": {
+                "Gold": 0
+            }
+        },
+        "lah": {
+            "password": "lah123456",
+            "role": "Biasa",
+            "locked": false,
+            "attempts": 0,
+            "balance": {
+                "Gold": 0
+            }
+        },
+        "au": {
+            "password": "rezking1234",
+            "role": "vip",
+            "locked": false,
+            "attempts": 0,
+            "balance": {
+                "Gold": 60
+            }
+        }
+    },
+    "items": {
+        "pagi": {
+            "Nasi Ayam Geprek": 50,
+            "Ayam Geprek Keju": 75
+        },
+        "siang": {
+            "Nasi Ayam Sambal Matah": 55,
+            "Ayam Geprek Mozarella": 80
+        },
+        "malam": {
+            "Ayam Geprek Bawang": 60,
+            "Paket Geprek Hemat": 100
+        }
+    },
+    "voucher": {
+        "kode": "GEPREKDISKON",
+        "diskon": 20,
+        "used": true,
+        "expired": false
+    }
+}
